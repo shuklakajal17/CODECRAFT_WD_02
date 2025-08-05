@@ -31,3 +31,4 @@ function resetTimer() {
   elapsedTime = 0;
   updateDisplay();
 }
+
